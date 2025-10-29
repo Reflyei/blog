@@ -1,0 +1,4 @@
+User-agent: *
+
+Allow: /
+Sitemap: https://reflyei.github.io/blog/blog/sitemap.xml

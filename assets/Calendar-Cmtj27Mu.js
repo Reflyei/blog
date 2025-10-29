@@ -1,0 +1,1 @@
+import{_ as l,c as r,o as s,a as e}from"./app-DZFtogLw.js";const a={},d={class:"w-full sm:w-[400px] bg-red-500 rounded-md"};function o(t,n){return s(),r("div",d,n[0]||(n[0]=[e("div",null,"12",-1),e("div",null,"22",-1),e("div",null,"32",-1)]))}const _=l(a,[["render",o],["__file","Calendar.vue"]]);export{_ as default};

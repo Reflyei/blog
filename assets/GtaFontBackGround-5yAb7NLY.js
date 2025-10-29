@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as a,a as s}from"./app-DZFtogLw.js";const n={},c={style:{width:"400px",height:"350px"}};function r(_,t){return a(),o("div",c,t[0]||(t[0]=[s("div",{class:"gta_title"}," WELCOLE BACK GAMER ",-1)]))}const i=e(n,[["render",r],["__file","GtaFontBackGround.vue"]]);export{i as default};

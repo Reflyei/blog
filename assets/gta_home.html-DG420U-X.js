@@ -1,0 +1,28 @@
+import{_ as p,c as e,a as s,e as t,b as l,r as c,o as i}from"./app-DZFtogLw.js";const o={};function u(r,n){const a=c("GtaFontBackGround");return i(),e("div",null,[n[0]||(n[0]=s("h2",{id:"效果预览",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#效果预览"},[s("span",null,"效果预览")])],-1)),t(a),n[1]||(n[1]=l(`<h2 id="css" tabindex="-1"><a class="header-anchor" href="#css"><span>css</span></a></h2><div class="language-css line-numbers-mode" data-highlighter="prismjs" data-ext="css" data-title="css"><pre><code><span class="line"><span class="token selector">.title</span> <span class="token punctuation">{</span></span>
+<span class="line">    <span class="token property">width</span><span class="token punctuation">:</span> 100vw<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">height</span><span class="token punctuation">:</span> 100vh<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">display</span><span class="token punctuation">:</span> flex<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">background</span><span class="token punctuation">:</span> <span class="token url"><span class="token function">url</span><span class="token punctuation">(</span>./images/gtafontimg.jpg<span class="token punctuation">)</span></span><span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">justify-content</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">align-items</span><span class="token punctuation">:</span> center<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">font-size</span><span class="token punctuation">:</span> 300vw<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">color</span><span class="token punctuation">:</span> transparent<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">background-clip</span><span class="token punctuation">:</span> text<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">animation</span><span class="token punctuation">:</span> scale 2s forwards<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">white-space</span><span class="token punctuation">:</span> nowrap<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token property">overflow</span><span class="token punctuation">:</span> hidden<span class="token punctuation">;</span></span>
+<span class="line"><span class="token punctuation">}</span></span>
+<span class="line"></span>
+<span class="line"><span class="token atrule"><span class="token rule">@keyframes</span> scale</span> <span class="token punctuation">{</span></span>
+<span class="line"></span>
+<span class="line">    <span class="token selector">from</span> <span class="token punctuation">{</span></span>
+<span class="line">        <span class="token property">font-size</span><span class="token punctuation">:</span> 200vw<span class="token punctuation">;</span></span>
+<span class="line">        <span class="token property">color</span><span class="token punctuation">:</span> transparent<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token punctuation">}</span></span>
+<span class="line"></span>
+<span class="line">    <span class="token selector">to</span> <span class="token punctuation">{</span></span>
+<span class="line">        <span class="token property">font-size</span><span class="token punctuation">:</span> 6vw<span class="token punctuation">;</span></span>
+<span class="line">        <span class="token property">color</span><span class="token punctuation">:</span> #000<span class="token punctuation">;</span></span>
+<span class="line">    <span class="token punctuation">}</span></span>
+<span class="line"><span class="token punctuation">}</span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2))])}const k=p(o,[["render",u],["__file","gta_home.html.vue"]]),v=JSON.parse('{"path":"/docs/qianduan/donghuaxiangguan/wenzidongxiao/gta_home.html","title":"仿gta官网字体动画","lang":"en-US","frontmatter":{"title":"仿gta官网字体动画","date":"2025/10/20"},"headers":[{"level":2,"title":"效果预览","slug":"效果预览","link":"#效果预览","children":[]},{"level":2,"title":"css","slug":"css","link":"#css","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/前端/动画相关/文字动效/gta_home.md"}');export{k as comp,v as data};
